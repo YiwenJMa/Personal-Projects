@@ -1,0 +1,2 @@
+# Personal-Projects
+ Welcome to my main project repository, where I showcase various school projects. Here, you'll find a collection of data analysis, machine learning, and research projects that demonstrate my skills and knowledge in these areas. Each project includes detailed code, and results, highlighting my ability to apply analytical and technical skills to real-world problems. Feel free to explore, provide feedback, and reach out if you have any questions or suggestions.
